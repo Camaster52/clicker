@@ -1,0 +1,166 @@
+
+
+
+
+body
+{
+    margin: 0;
+    padding: 0;
+}
+
+
+.container1
+{
+    display: flex;
+    justify-content: center;
+}
+
+.container1__text
+{
+    color:rgb(218, 118, 60);
+    font-weight: bolder;
+}
+
+
+.container2
+{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    margin-top: 70px;
+}
+
+
+.container2__btn-first,.container2__btn-second,.container2__btn-third
+{
+    border: none;
+    background: none;
+    background-color: rgb(0, 0, 0);
+    color:white;
+    border-radius: 15px;
+    width: 130px;
+    height: 70px;
+    transition: all 0.3s ease-in-out;
+}
+
+
+.container2__btn-first:active
+{
+    scale: 90%;
+    
+}
+
+.container2__btn-first:hover
+{
+    box-shadow: 0px 0px 6px 4px rgb(240, 106, 29);
+}
+
+.container2__btn-second:active
+{
+    scale: 90%;
+ 
+}
+
+.container2__btn-second:hover
+{
+    box-shadow: 0px 0px 6px 4px rgb(240, 106, 29);
+}
+
+.container2__btn-third:active
+{
+    scale: 90%;
+
+}
+
+.container2__btn-third:hover
+{
+    box-shadow: 0px 0px 6px 4px rgb(240, 106, 29);
+}
+
+.score
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+
+.number
+{
+    display: flex;
+    justify-content: center;
+    margin-top: -10px;
+    font-size: 40px;
+    font-weight: bold;
+    color: rgb(233, 108, 25);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
